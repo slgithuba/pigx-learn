@@ -37,4 +37,5 @@ public class MyConfig {
 	public SysUser getUser() {
 		return new SysUser();
 	}
+
 }
